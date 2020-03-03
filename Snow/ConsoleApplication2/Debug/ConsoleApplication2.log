@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Lenovo\source\repos\LR 21 Снегопад\ConsoleApplication2\ConsoleApplication2.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\source\repos\LR 21 Снегопад\ConsoleApplication2\ConsoleApplication2.cpp(79,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Lenovo\source\repos\LR 21 Снегопад\Debug\ConsoleApplication2.exe
